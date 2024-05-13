@@ -28,12 +28,14 @@ def PreProcess(file):
     #aplicar one hot encoding a todas las columnas del df excepto de diagnosis
     target = pd.DataFrame()
     target["diagnosis"] = df["diagnosis"]
+    df = df.drop("diagnosis", axis=1)
     df = pd.get_dummies(df, columns=columnsMinusDiag)
     df["diagnosis"] = target["diagnosis"]
 
     #incrementar el df muestreando aleatoriamente 10% de los datos donde diagnosis es 1
     dfTrue = df[df["diagnosis"].values == 1]
     dfFalse = df[df["diagnosis"].values == 0]
+    #dfFalse = dfFalse.sample(frac=0.5)
 
     ##Guarda en un csv los datos de cada dataframe "dfTrue y dfFalse"
     #dfTrue.to_csv('dfTrue.csv', index=False)
@@ -137,7 +139,7 @@ if __name__ == "__main__":
     PAR = 0.3
     iters_sin_mejora = 0
     intentos = 0
-    MAX_ITERS_SIN_MEJORA = 400
+    MAX_ITERS_SIN_MEJORA = 1000
     correlaciones = np.zeros(NUM_DICT)
     porcentaje_pitch_aleatorio_MIN_MAX = 0.4
 
@@ -162,7 +164,7 @@ if __name__ == "__main__":
 
         #print("peor correlacion", ind_correlacion_peor)
 
-        for pitch in range(len(HM)):
+        for pitch in range(HM.shape[1]):
             # Generar dos valores aleatorios entre 0 y 1
             valor_aleatorio1 = random.uniform(0, 1)
             valor_aleatorio2 = random.uniform(0, 1)
@@ -214,6 +216,8 @@ if __name__ == "__main__":
         f.write("Mejor correlación: {0}\n".format(bestCorrel))
         f.write("Correlaciones: {0}\n".format(correlaciones))
         f.write("porcentaje_pitch_aleatorio_MIN_MAX: {0}\n".format(porcentaje_pitch_aleatorio_MIN_MAX))
+        #target["CRVBoolean"] = target["CRV"].apply(lambda x: 1 if x > 85 else 0)
+        #f.write("Total de casos correctamente clasificados: {0}\n".format((target["CRVBoolean"] == target["diagnosis"]).sum()))
 
         writer = csv.writer(f)
         #writer.writerow(['Clave', 'Valor'])  # Escribir encabezados de columnas

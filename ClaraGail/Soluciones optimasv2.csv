@@ -1552,3 +1552,526 @@ bmi_group_9.04,7
 biophx_10.01,0
 biophx_10.02,7
 
+Fecha: 2024-05-12 18:27:16.558682
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 400
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 484
+Mejor correlación: 0.22981272519320434
+Correlaciones: [ 0.00466339 -0.33417899  0.01908413  0.05798475  0.12039779 -0.43424436
+ -0.07960616  0.22009172  0.22981273 -0.22241359  0.05211864]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,6
+age_group_5_years_1.02,1
+age_group_5_years_1.03,7
+age_group_5_years_1.04,0
+age_group_5_years_1.05,10
+age_group_5_years_1.06,11
+age_group_5_years_1.07,8
+age_group_5_years_1.08,8
+age_group_5_years_1.09,1
+age_group_5_years_1.1,6
+age_group_5_years_1.11,13
+age_group_5_years_1.12,9
+race_eth_2.01,2
+race_eth_2.02,6
+first_degree_hx_3.01,11
+first_degree_hx_3.02,9
+age_menarche_4.01,8
+age_menarche_4.02,3
+age_menarche_4.03,11
+age_first_birth_5.01,0
+age_first_birth_5.02,1
+age_first_birth_5.03,0
+age_first_birth_5.04,13
+age_first_birth_5.05,11
+BIRADS_breast_density_6.01,4
+BIRADS_breast_density_6.02,4
+BIRADS_breast_density_6.03,10
+BIRADS_breast_density_6.04,6
+current_hrt_7.01,8
+current_hrt_7.02,8
+menopaus_8.01,2
+menopaus_8.02,2
+menopaus_8.03,2
+bmi_group_9.01,3
+bmi_group_9.02,7
+bmi_group_9.03,5
+bmi_group_9.04,7
+biophx_10.01,0
+biophx_10.02,7
+
+Fecha: 2024-05-12 18:29:49.171882
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 800
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 884
+Mejor correlación: 0.22981272519320434
+Correlaciones: [ 0.00466339 -0.33417899  0.01908413  0.05798475  0.12039779 -0.40750632
+ -0.07960616  0.22009172  0.22981273 -0.22241359  0.05211864]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,6
+age_group_5_years_1.02,1
+age_group_5_years_1.03,7
+age_group_5_years_1.04,0
+age_group_5_years_1.05,10
+age_group_5_years_1.06,11
+age_group_5_years_1.07,8
+age_group_5_years_1.08,8
+age_group_5_years_1.09,1
+age_group_5_years_1.1,6
+age_group_5_years_1.11,13
+age_group_5_years_1.12,9
+race_eth_2.01,2
+race_eth_2.02,6
+first_degree_hx_3.01,11
+first_degree_hx_3.02,9
+age_menarche_4.01,8
+age_menarche_4.02,3
+age_menarche_4.03,11
+age_first_birth_5.01,0
+age_first_birth_5.02,1
+age_first_birth_5.03,0
+age_first_birth_5.04,13
+age_first_birth_5.05,11
+BIRADS_breast_density_6.01,4
+BIRADS_breast_density_6.02,4
+BIRADS_breast_density_6.03,10
+BIRADS_breast_density_6.04,6
+current_hrt_7.01,8
+current_hrt_7.02,8
+menopaus_8.01,2
+menopaus_8.02,2
+menopaus_8.03,2
+bmi_group_9.01,3
+bmi_group_9.02,7
+bmi_group_9.03,5
+bmi_group_9.04,7
+biophx_10.01,0
+biophx_10.02,7
+
+Fecha: 2024-05-12 18:33:40.570570
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 100
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 635
+Mejor correlación: 0.6371952413154817
+Correlaciones: [0.55282959 0.63719524 0.55998023 0.51172391 0.55293691 0.52168535
+ 0.56909604 0.60348732 0.14937034 0.51717703 0.59222949]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,0
+age_group_5_years_1.02,1
+age_group_5_years_1.03,0
+age_group_5_years_1.04,1
+age_group_5_years_1.05,0
+age_group_5_years_1.06,1
+age_group_5_years_1.07,0
+age_group_5_years_1.08,1
+age_group_5_years_1.09,0
+age_group_5_years_1.1,1
+age_group_5_years_1.11,1
+age_group_5_years_1.12,3
+race_eth_2.01,1
+race_eth_2.02,2
+first_degree_hx_3.01,0
+first_degree_hx_3.02,0
+age_menarche_4.01,2
+age_menarche_4.02,0
+age_menarche_4.03,0
+age_first_birth_5.01,0
+age_first_birth_5.02,1
+age_first_birth_5.03,1
+age_first_birth_5.04,1
+age_first_birth_5.05,3
+BIRADS_breast_density_6.01,0
+BIRADS_breast_density_6.02,1
+BIRADS_breast_density_6.03,1
+BIRADS_breast_density_6.04,0
+current_hrt_7.01,7
+current_hrt_7.02,1
+menopaus_8.01,1
+menopaus_8.02,7
+menopaus_8.03,1
+bmi_group_9.01,1
+bmi_group_9.02,1
+bmi_group_9.03,1
+bmi_group_9.04,1
+biophx_10.01,1
+biophx_10.02,14
+
+Fecha: 2024-05-12 18:39:58.846811
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 1000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 8511
+Mejor correlación: 0.6440021757085549
+Correlaciones: [0.63729144 0.63719524 0.61518348 0.6221619  0.62589292 0.61385366
+ 0.61429222 0.62837237 0.64400218 0.63611886 0.14881611]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,1
+age_group_5_years_1.02,1
+age_group_5_years_1.03,0
+age_group_5_years_1.04,0
+age_group_5_years_1.05,0
+age_group_5_years_1.06,1
+age_group_5_years_1.07,1
+age_group_5_years_1.08,1
+age_group_5_years_1.09,1
+age_group_5_years_1.1,1
+age_group_5_years_1.11,1
+age_group_5_years_1.12,0
+race_eth_2.01,1
+race_eth_2.02,1
+first_degree_hx_3.01,0
+first_degree_hx_3.02,0
+age_menarche_4.01,2
+age_menarche_4.02,1
+age_menarche_4.03,0
+age_first_birth_5.01,1
+age_first_birth_5.02,1
+age_first_birth_5.03,0
+age_first_birth_5.04,0
+age_first_birth_5.05,1
+BIRADS_breast_density_6.01,0
+BIRADS_breast_density_6.02,1
+BIRADS_breast_density_6.03,0
+BIRADS_breast_density_6.04,1
+current_hrt_7.01,4
+current_hrt_7.02,0
+menopaus_8.01,0
+menopaus_8.02,1
+menopaus_8.03,0
+bmi_group_9.01,1
+bmi_group_9.02,1
+bmi_group_9.03,0
+bmi_group_9.04,0
+biophx_10.01,1
+biophx_10.02,14
+
+Fecha: 2024-05-12 19:34:52.099310
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 10000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 78542
+Mejor correlación: 0.6496054870274488
+Correlaciones: [0.64569412 0.64648299 0.64863124 0.64152088 0.64194909 0.64834459
+ 0.3369766  0.64960549 0.64400218 0.64353469 0.64274863]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,0
+age_group_5_years_1.02,0
+age_group_5_years_1.03,0
+age_group_5_years_1.04,0
+age_group_5_years_1.05,0
+age_group_5_years_1.06,1
+age_group_5_years_1.07,1
+age_group_5_years_1.08,1
+age_group_5_years_1.09,0
+age_group_5_years_1.1,0
+age_group_5_years_1.11,0
+age_group_5_years_1.12,1
+race_eth_2.01,1
+race_eth_2.02,1
+first_degree_hx_3.01,1
+first_degree_hx_3.02,1
+age_menarche_4.01,0
+age_menarche_4.02,1
+age_menarche_4.03,1
+age_first_birth_5.01,1
+age_first_birth_5.02,0
+age_first_birth_5.03,0
+age_first_birth_5.04,0
+age_first_birth_5.05,1
+BIRADS_breast_density_6.01,0
+BIRADS_breast_density_6.02,1
+BIRADS_breast_density_6.03,1
+BIRADS_breast_density_6.04,0
+current_hrt_7.01,8
+current_hrt_7.02,0
+menopaus_8.01,1
+menopaus_8.02,2
+menopaus_8.03,0
+bmi_group_9.01,1
+bmi_group_9.02,1
+bmi_group_9.03,0
+bmi_group_9.04,1
+biophx_10.01,0
+biophx_10.02,16
+
+Fecha: 2024-05-12 21:51:58.195599
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 1000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 3358
+Mejor correlación: 139129.0
+Correlaciones: [131827. 131814. 133970. 132213. 139129. 132344. 131841. 131884. 131877.
+ 131913. 132535.]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,5
+age_group_5_years_1.02,10
+age_group_5_years_1.03,2
+age_group_5_years_1.04,0
+age_group_5_years_1.05,2
+age_group_5_years_1.06,4
+age_group_5_years_1.07,13
+age_group_5_years_1.08,2
+age_group_5_years_1.09,0
+age_group_5_years_1.1,4
+age_group_5_years_1.11,9
+age_group_5_years_1.12,6
+race_eth_2.01,13
+race_eth_2.02,6
+first_degree_hx_3.01,10
+first_degree_hx_3.02,8
+age_menarche_4.01,9
+age_menarche_4.02,9
+age_menarche_4.03,11
+age_first_birth_5.01,12
+age_first_birth_5.02,2
+age_first_birth_5.03,6
+age_first_birth_5.04,0
+age_first_birth_5.05,3
+BIRADS_breast_density_6.01,12
+BIRADS_breast_density_6.02,3
+BIRADS_breast_density_6.03,13
+BIRADS_breast_density_6.04,4
+current_hrt_7.01,6
+current_hrt_7.02,6
+menopaus_8.01,12
+menopaus_8.02,10
+menopaus_8.03,12
+bmi_group_9.01,3
+bmi_group_9.02,12
+bmi_group_9.03,6
+bmi_group_9.04,10
+biophx_10.01,2
+biophx_10.02,5
+
+Fecha: 2024-05-12 23:07:43.490404
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 1000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 3342
+Mejor correlación: 2790240.0
+Correlaciones: [ 3781182.  5312712.  3063012.  4816183.  2790240.  4218351.  6468823.
+ 13448047.  5857806.  5722703.  3467289.]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+Total de casos correctamente clasificados: 131814
+age_group_5_years_1.01,5
+age_group_5_years_1.02,10
+age_group_5_years_1.03,2
+age_group_5_years_1.04,0
+age_group_5_years_1.05,2
+age_group_5_years_1.06,4
+age_group_5_years_1.07,13
+age_group_5_years_1.08,2
+age_group_5_years_1.09,0
+age_group_5_years_1.1,4
+age_group_5_years_1.11,9
+age_group_5_years_1.12,6
+race_eth_2.01,13
+race_eth_2.02,6
+first_degree_hx_3.01,10
+first_degree_hx_3.02,8
+age_menarche_4.01,9
+age_menarche_4.02,9
+age_menarche_4.03,11
+age_first_birth_5.01,12
+age_first_birth_5.02,2
+age_first_birth_5.03,6
+age_first_birth_5.04,0
+age_first_birth_5.05,3
+BIRADS_breast_density_6.01,12
+BIRADS_breast_density_6.02,3
+BIRADS_breast_density_6.03,13
+BIRADS_breast_density_6.04,4
+current_hrt_7.01,6
+current_hrt_7.02,6
+menopaus_8.01,12
+menopaus_8.02,10
+menopaus_8.03,12
+bmi_group_9.01,3
+bmi_group_9.02,12
+bmi_group_9.03,6
+bmi_group_9.04,10
+biophx_10.01,2
+biophx_10.02,5
+
+Fecha: 2024-05-12 23:46:43.933725
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 1000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 5577
+Mejor correlación: 28931090.0
+Correlaciones: [5.0845927e+07 5.6557345e+07 1.0285795e+08 4.4691377e+07 3.0233836e+07
+ 5.7066307e+07 5.5954399e+07 4.6082440e+07 3.7725984e+07 3.3461303e+07
+ 2.8931090e+07]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+Total de casos correctamente clasificados: 131814
+age_group_5_years_1.01,1
+age_group_5_years_1.02,1
+age_group_5_years_1.03,5
+age_group_5_years_1.04,1
+age_group_5_years_1.05,4
+age_group_5_years_1.06,1
+age_group_5_years_1.07,1
+age_group_5_years_1.08,1
+age_group_5_years_1.09,1
+age_group_5_years_1.1,3
+age_group_5_years_1.11,2
+age_group_5_years_1.12,0
+race_eth_2.01,16
+race_eth_2.02,2
+first_degree_hx_3.01,8
+first_degree_hx_3.02,6
+age_menarche_4.01,0
+age_menarche_4.02,1
+age_menarche_4.03,0
+age_first_birth_5.01,5
+age_first_birth_5.02,3
+age_first_birth_5.03,5
+age_first_birth_5.04,0
+age_first_birth_5.05,1
+BIRADS_breast_density_6.01,1
+BIRADS_breast_density_6.02,0
+BIRADS_breast_density_6.03,0
+BIRADS_breast_density_6.04,2
+current_hrt_7.01,9
+current_hrt_7.02,2
+menopaus_8.01,1
+menopaus_8.02,13
+menopaus_8.03,1
+bmi_group_9.01,2
+bmi_group_9.02,3
+bmi_group_9.03,4
+bmi_group_9.04,11
+biophx_10.01,1
+biophx_10.02,9
+
+Fecha: 2024-05-12 23:59:31.389274
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 400
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 2180
+Mejor correlación: 0.6372914418963423
+Correlaciones: [0.63729144 0.63719524 0.21736122 0.6031164  0.59477386 0.59474173
+ 0.61429222 0.60348732 0.57990234 0.60835925 0.59222949]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,1
+age_group_5_years_1.02,0
+age_group_5_years_1.03,1
+age_group_5_years_1.04,0
+age_group_5_years_1.05,0
+age_group_5_years_1.06,1
+age_group_5_years_1.07,5
+age_group_5_years_1.08,0
+age_group_5_years_1.09,0
+age_group_5_years_1.1,0
+age_group_5_years_1.11,0
+age_group_5_years_1.12,1
+race_eth_2.01,6
+race_eth_2.02,0
+first_degree_hx_3.01,3
+first_degree_hx_3.02,1
+age_menarche_4.01,0
+age_menarche_4.02,1
+age_menarche_4.03,0
+age_first_birth_5.01,2
+age_first_birth_5.02,1
+age_first_birth_5.03,2
+age_first_birth_5.04,1
+age_first_birth_5.05,1
+BIRADS_breast_density_6.01,0
+BIRADS_breast_density_6.02,2
+BIRADS_breast_density_6.03,1
+BIRADS_breast_density_6.04,0
+current_hrt_7.01,10
+current_hrt_7.02,1
+menopaus_8.01,1
+menopaus_8.02,3
+menopaus_8.03,1
+bmi_group_9.01,1
+bmi_group_9.02,0
+bmi_group_9.03,0
+bmi_group_9.04,1
+biophx_10.01,0
+biophx_10.02,14
+
+Fecha: 2024-05-13 00:07:00.023694
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 400
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 2180
+Mejor correlación: 0.6372914418963423
+Correlaciones: [0.63729144 0.63719524 0.21736122 0.6031164  0.59477386 0.59474173
+ 0.61429222 0.60348732 0.57990234 0.60835925 0.59222949]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,1
+age_group_5_years_1.02,0
+age_group_5_years_1.03,1
+age_group_5_years_1.04,0
+age_group_5_years_1.05,0
+age_group_5_years_1.06,1
+age_group_5_years_1.07,5
+age_group_5_years_1.08,0
+age_group_5_years_1.09,0
+age_group_5_years_1.1,0
+age_group_5_years_1.11,0
+age_group_5_years_1.12,1
+race_eth_2.01,6
+race_eth_2.02,0
+first_degree_hx_3.01,3
+first_degree_hx_3.02,1
+age_menarche_4.01,0
+age_menarche_4.02,1
+age_menarche_4.03,0
+age_first_birth_5.01,2
+age_first_birth_5.02,1
+age_first_birth_5.03,2
+age_first_birth_5.04,1
+age_first_birth_5.05,1
+BIRADS_breast_density_6.01,0
+BIRADS_breast_density_6.02,2
+BIRADS_breast_density_6.03,1
+BIRADS_breast_density_6.04,0
+current_hrt_7.01,10
+current_hrt_7.02,1
+menopaus_8.01,1
+menopaus_8.02,3
+menopaus_8.03,1
+bmi_group_9.01,1
+bmi_group_9.02,0
+bmi_group_9.03,0
+bmi_group_9.04,1
+biophx_10.01,0
+biophx_10.02,14
+
