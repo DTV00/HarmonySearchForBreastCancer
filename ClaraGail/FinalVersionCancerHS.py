@@ -64,7 +64,9 @@ def evaluar(HM, i):
     global correlaciones, df, target
     #multiplicar todos los elementos del df por HM[i] y sumar el resultado de cada renglón para almacenarlo en target["CRV"]
     target["CRV"] = df.mul(HM[i]).sum(axis=1)
-    correlaciones[i], e = pearsonr(target["CRV"], target["diagnosis"])
+
+    correlaciones[i], p_value = pearsonr(target["CRV"], target["diagnosis"])
+
     return correlaciones[i]
 
 def calcularTodasLasCorrelaciones(HM):
@@ -72,13 +74,16 @@ def calcularTodasLasCorrelaciones(HM):
     for i in range(len(HM)):
         #multiplicar todos los elementos del df por HM[i] y sumar el resultado de cada renglón para almacenarlo en target["CRV"]
         target["CRV"] = df.mul(HM[i]).sum(axis=1)
-        correlaciones[i], e = pearsonr(target["CRV"], target["diagnosis"])
+        correlaciones[i], p_value = pearsonr(target["CRV"], target["diagnosis"])
+        #un valor pequeño en p_value implica una correlación significativa ya sea positiva o negativa pero lejos del 0
     return correlaciones
 
 # Función para generar una nueva armonía seleccionando valores de otros diccionarios
 def Seleccionar_tono_aleatorio(HM, ind_correlacion_peor, pitch):
     # Elige aleatoriamente un valor del pitch actual de HM para la nueva armonía sin considerar al renglón ind_correlacion_peor
-    return random.choice(HM[:, pitch] != HM[ind_correlacion_peor][pitch])
+    #No es conveniente bloquear la selección ya que evita que sea seleccionado un pitch igual al de la peor solución aunque sea de otra arminía.
+    #return random.choice(HM[:, pitch] != HM[ind_correlacion_peor][pitch])
+    return random.choice(HM[:, pitch])
 
 #Función para generar un tono aleatorio para una nueva armonía
 def generar_tono_aleatorio(dictionarios, pitch):
@@ -223,6 +228,10 @@ if __name__ == "__main__":
         #writer.writerow(['Clave', 'Valor'])  # Escribir encabezados de columnas
         writer.writerows(result)
         f.write("\n")
+
+    for i in range(len(HM)):
+        result = list(zip(df.columns.values, HM[i]))
+        print("Correlación: ", i, result)
     print('Los datos se han escrito en el archivo CSV.')
 
 
