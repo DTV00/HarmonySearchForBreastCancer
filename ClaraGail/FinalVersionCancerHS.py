@@ -74,6 +74,7 @@ def calcularTodasLasCorrelaciones(HM):
     for i in range(len(HM)):
         #multiplicar todos los elementos del df por HM[i] y sumar el resultado de cada renglón para almacenarlo en target["CRV"]
         target["CRV"] = df.mul(HM[i]).sum(axis=1)
+
         correlaciones[i], p_value = pearsonr(target["CRV"], target["diagnosis"])
         #un valor pequeño en p_value implica una correlación significativa ya sea positiva o negativa pero lejos del 0
     return correlaciones
@@ -139,12 +140,12 @@ if __name__ == "__main__":
 
     NUM_DICT = 11
     MIN_VAL = 0
-    MAX_VAL = 14
+    MAX_VAL = 20
     HMCR = 0.7
     PAR = 0.3
     iters_sin_mejora = 0
     intentos = 0
-    MAX_ITERS_SIN_MEJORA = 1000
+    MAX_ITERS_SIN_MEJORA = 10000
     correlaciones = np.zeros(NUM_DICT)
     porcentaje_pitch_aleatorio_MIN_MAX = 0.4
 
@@ -207,6 +208,7 @@ if __name__ == "__main__":
     indexBestSol = correlaciones.argmax()
     result = list(zip(df.columns.values, HM[indexBestSol]))
 
+
     with open("Soluciones optimasv2.csv", "a", newline="") as f:
         #escribe en el archivo f la fecha y las variables globales de configuración
 
@@ -223,15 +225,39 @@ if __name__ == "__main__":
         f.write("porcentaje_pitch_aleatorio_MIN_MAX: {0}\n".format(porcentaje_pitch_aleatorio_MIN_MAX))
         #target["CRVBoolean"] = target["CRV"].apply(lambda x: 1 if x > 85 else 0)
         #f.write("Total de casos correctamente clasificados: {0}\n".format((target["CRVBoolean"] == target["diagnosis"]).sum()))
+        target["CRV"] = df.mul(HM[indexBestSol]).sum(axis=1)
+        inicio = int((np.average(target["CRV"]) + np.min(target["CRV"])) // 2)
+        fin = int((np.average(target["CRV"]) + np.max(target["CRV"])) // 2)
+
+        for limite in range(inicio, fin):
+            target["CRVBoolean"] = target["CRV"].apply(lambda x: 1 if x > limite else 0)
+            accuracy = (target["CRVBoolean"] == target["diagnosis"]).sum() / target.shape[0]
+            precision = (target["CRVBoolean"].mul(target["diagnosis"])).sum() / (target["diagnosis"] == 1).sum()
+            sensitivity = (target["CRVBoolean"].mul(target["diagnosis"])).sum() / (target["CRVBoolean"]).sum()
+            specificity = (1 - target["CRVBoolean"]).mul(1-target["diagnosis"]).sum() / (target["CRVBoolean"] == 0).sum()
+            f1 = 2*(precision*sensitivity)/(precision + sensitivity)
+
+            f.write("accuracy: {0} para limite = {1}\t".format(accuracy,limite))
+            f.write("precision: {0}\t".format(precision))
+            f.write("Sensitivity: {0}\t".format(sensitivity))
+            f.write("Specificity: {0}\t".format(specificity))
+            f.write("f1: {0}\t".format(f1))
+
+            TP = (target["CRVBoolean"].mul(target["diagnosis"])).sum()
+            FP = ((1-target["CRVBoolean"]).mul(target["diagnosis"])).sum()
+            FN = (target["CRVBoolean"].mul(1- target["diagnosis"])).sum()
+            TN = (1 - target["CRVBoolean"]).mul(1-target["diagnosis"]).sum()
+
+            f.write("TP: {0}\t".format(TP))
+            f.write("FP: {0}\t".format(FP))
+            f.write("FN: {0}\t".format(FN))
+            f.write("TN: {0}\n".format(TN))
 
         writer = csv.writer(f)
         #writer.writerow(['Clave', 'Valor'])  # Escribir encabezados de columnas
         writer.writerows(result)
         f.write("\n")
 
-    for i in range(len(HM)):
-        result = list(zip(df.columns.values, HM[i]))
-        print("Correlación: ", i, result)
     print('Los datos se han escrito en el archivo CSV.')
 
 

@@ -2231,3 +2231,338 @@ bmi_group_9.04,1
 biophx_10.01,0
 biophx_10.02,14
 
+Fecha: 2024-05-13 00:58:28.437002
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 1000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 22233
+Mejor correlación: 0.6681877003598635
+Correlaciones: [0.66728054 0.66759219 0.6409226  0.66713812 0.66759346 0.66746514
+ 0.66712278 0.6674946  0.66715773 0.66712901 0.6681877 ]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,5
+age_group_5_years_1.02,6
+age_group_5_years_1.03,6
+age_group_5_years_1.04,6
+age_group_5_years_1.05,7
+age_group_5_years_1.06,7
+age_group_5_years_1.07,8
+age_group_5_years_1.08,9
+age_group_5_years_1.09,9
+age_group_5_years_1.1,9
+age_group_5_years_1.11,9
+age_group_5_years_1.12,10
+race_eth_2.01,8
+race_eth_2.02,5
+first_degree_hx_3.01,12
+first_degree_hx_3.02,11
+age_menarche_4.01,7
+age_menarche_4.02,8
+age_menarche_4.03,8
+age_first_birth_5.01,4
+age_first_birth_5.02,6
+age_first_birth_5.03,5
+age_first_birth_5.04,5
+age_first_birth_5.05,5
+BIRADS_breast_density_6.01,3
+BIRADS_breast_density_6.02,5
+BIRADS_breast_density_6.03,5
+BIRADS_breast_density_6.04,2
+current_hrt_7.01,11
+current_hrt_7.02,4
+menopaus_8.01,8
+menopaus_8.02,10
+menopaus_8.03,8
+bmi_group_9.01,5
+bmi_group_9.02,5
+bmi_group_9.03,4
+bmi_group_9.04,4
+biophx_10.01,0
+biophx_10.02,15
+
+Fecha: 2024-05-13 01:55:33.417230
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 10000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 14
+Total Intentos: 78842
+Mejor correlación: 0.6676615176078684
+Correlaciones: [0.59271204 0.66766152 0.66766152 0.66766152 0.66766152 0.66766152
+ 0.66766152 0.66766152 0.66766152 0.66766152 0.66766152]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,6
+age_group_5_years_1.02,6
+age_group_5_years_1.03,6
+age_group_5_years_1.04,7
+age_group_5_years_1.05,8
+age_group_5_years_1.06,8
+age_group_5_years_1.07,10
+age_group_5_years_1.08,10
+age_group_5_years_1.09,10
+age_group_5_years_1.1,11
+age_group_5_years_1.11,11
+age_group_5_years_1.12,11
+race_eth_2.01,9
+race_eth_2.02,6
+first_degree_hx_3.01,5
+first_degree_hx_3.02,4
+age_menarche_4.01,8
+age_menarche_4.02,9
+age_menarche_4.03,9
+age_first_birth_5.01,7
+age_first_birth_5.02,8
+age_first_birth_5.03,8
+age_first_birth_5.04,8
+age_first_birth_5.05,8
+BIRADS_breast_density_6.01,8
+BIRADS_breast_density_6.02,9
+BIRADS_breast_density_6.03,9
+BIRADS_breast_density_6.04,6
+current_hrt_7.01,8
+current_hrt_7.02,2
+menopaus_8.01,10
+menopaus_8.02,11
+menopaus_8.03,10
+bmi_group_9.01,10
+bmi_group_9.02,9
+bmi_group_9.03,8
+bmi_group_9.04,8
+biophx_10.01,0
+biophx_10.02,14
+
+Fecha: 2024-05-13 09:14:25.505992
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 10000
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 20
+Total Intentos: 114628
+Mejor correlación: 0.6681518289704224
+Correlaciones: [0.63121206 0.66815183 0.66815183 0.66815183 0.66815183 0.66815183
+ 0.66815183 0.66815183 0.66815183 0.66815183 0.66815183]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+age_group_5_years_1.01,8
+age_group_5_years_1.02,8
+age_group_5_years_1.03,8
+age_group_5_years_1.04,9
+age_group_5_years_1.05,10
+age_group_5_years_1.06,11
+age_group_5_years_1.07,13
+age_group_5_years_1.08,14
+age_group_5_years_1.09,14
+age_group_5_years_1.1,14
+age_group_5_years_1.11,15
+age_group_5_years_1.12,15
+race_eth_2.01,9
+race_eth_2.02,5
+first_degree_hx_3.01,8
+first_degree_hx_3.02,7
+age_menarche_4.01,5
+age_menarche_4.02,6
+age_menarche_4.03,6
+age_first_birth_5.01,9
+age_first_birth_5.02,10
+age_first_birth_5.03,10
+age_first_birth_5.04,9
+age_first_birth_5.05,10
+BIRADS_breast_density_6.01,8
+BIRADS_breast_density_6.02,10
+BIRADS_breast_density_6.03,10
+BIRADS_breast_density_6.04,6
+current_hrt_7.01,12
+current_hrt_7.02,4
+menopaus_8.01,14
+menopaus_8.02,15
+menopaus_8.03,13
+bmi_group_9.01,12
+bmi_group_9.02,11
+bmi_group_9.03,10
+bmi_group_9.04,10
+biophx_10.01,0
+biophx_10.02,19
+Fecha: 2024-05-13 13:49:37.033352
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 20
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 20
+Total Intentos: 269
+Mejor correlación: 0.5892237183976055
+Correlaciones: [0.55211158 0.30469321 0.54900724 0.55270576 0.58922372 0.55044434
+ 0.5431421  0.53701981 0.53963221 0.53447037 0.54090956]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+accuracy: 0.5484279303862712 para limite = 90	precision: 0.9988639978188758 para limite = 90	Sensitivity: 0.52569232976739 para limite = 90	Specificity: 0.9884294970688059 para limite = 90	f1: 0.6888497756793599 para limite = 90
+accuracy: 0.5564436662421927 para limite = 91	precision: 0.998545917208161 para limite = 91	Sensitivity: 0.530171737845456 para limite = 91	Specificity: 0.9873375981006397 para limite = 91	f1: 0.692607719279814 para limite = 91
+accuracy: 0.5656456552058698 para limite = 92	precision: 0.9983641568591811 para limite = 92	Sensitivity: 0.5354057599597103 para limite = 92	Specificity: 0.9877544078462498 para limite = 92	f1: 0.6970144794968527 para limite = 92
+accuracy: 0.5749007034139834 para limite = 93	precision: 0.9980006361612215 para limite = 93	Sensitivity: 0.5407852133339353 para limite = 93	Specificity: 0.9869157952123705 para limite = 93	f1: 0.7014673121811131 para limite = 93
+accuracy: 0.5850994481838578 para limite = 94	precision: 0.9974099150270368 para limite = 94	Sensitivity: 0.5468542386393834 para limite = 94	Specificity: 0.985145934676859 para limite = 94	f1: 0.7064048445319331 para limite = 94
+accuracy: 0.5957567764235038 para limite = 95	precision: 0.9966828736311174 para limite = 95	Sensitivity: 0.5533578888944952 para limite = 95	Specificity: 0.983171968649147 para limite = 95	f1: 0.7116230026766162 para limite = 95
+accuracy: 0.607501819174095 para limite = 96	precision: 0.9957286317989731 para limite = 96	Sensitivity: 0.5607287708389309 para limite = 96	Specificity: 0.9808026141121209 para limite = 96	f1: 0.7174416605960401 para limite = 96
+accuracy: 0.6187958583469771 para limite = 97	precision: 0.994547189530604 para limite = 97	Sensitivity: 0.5680385838181543 para limite = 97	Specificity: 0.9779621070674298 para limite = 97	f1: 0.7230850129533323 para limite = 97
+accuracy: 0.6308782062943423 para limite = 98	precision: 0.9933203071749898 para limite = 98	Sensitivity: 0.5760893913639299 para limite = 98	Specificity: 0.975623911781776 para limite = 98	f1: 0.7292439848213169 para limite = 98
+accuracy: 0.6436465344733491 para limite = 99	precision: 0.9923206252556005 para limite = 99	Sensitivity: 0.5848419925013391 para limite = 99	Specificity: 0.9745328511151296 para limite = 99	f1: 0.7359428446256762 para limite = 99
+accuracy: 0.6563542235158571 para limite = 100	precision: 0.9902758213295769 para limite = 100	Sensitivity: 0.5939576737361854 para limite = 100	Specificity: 0.9706238989681759 para limite = 100	f1: 0.7425444860572021 para limite = 100
+accuracy: 0.6688875750409314 para limite = 101	precision: 0.9880946971418185 para limite = 101	Sensitivity: 0.6032904228165575 para limite = 101	Specificity: 0.9669692385274836 para limite = 101	f1: 0.7491688343008734 para limite = 101
+accuracy: 0.6822054453944576 para limite = 102	precision: 0.9860953333030399 para limite = 102	Sensitivity: 0.6135367681013278 para limite = 102	Specificity: 0.9644420343184723 para limite = 102	f1: 0.7564311110078311 para limite = 102
+accuracy: 0.6951784306591474 para limite = 103	precision: 0.9835052483300768 para limite = 103	Sensitivity: 0.6240011532085625 para limite = 103	Specificity: 0.9609264275847222 para limite = 103	f1: 0.7635533003877621 para limite = 103
+accuracy: 0.7072190892001697 para limite = 104	precision: 0.9794156404780298 para limite = 104	Sensitivity: 0.6343827566247093 para limite = 104	Specificity: 0.954698489949665 para limite = 104	f1: 0.7700148853825544 para limite = 104
+accuracy: 0.717929476684252 para limite = 105	precision: 0.973417548961694 para limite = 105	Sensitivity: 0.6444386506758654 para limite = 105	Specificity: 0.9455036641411004 para limite = 105	f1: 0.7754804066487676 para limite = 105
+accuracy: 0.7287384027651447 para limite = 106	precision: 0.9677375380560731 para limite = 106	Sensitivity: 0.6549698609915119 para limite = 106	Specificity: 0.9380453752181501 para limite = 106	f1: 0.781211598774829 para limite = 106
+accuracy: 0.7400476017221514 para limite = 107	precision: 0.9617394465397373 para limite = 107	Sensitivity: 0.6665162075915351 para limite = 107	Specificity: 0.9311040802967488 para limite = 107	f1: 0.7873639830114393 para limite = 107
+accuracy: 0.7501970771936207 para limite = 108	precision: 0.9538783114463579 para limite = 108	Sensitivity: 0.6779850786439438 para limite = 108	Specificity: 0.9220050715914039 para limite = 108	f1: 0.7926095602486973 para limite = 108
+accuracy: 0.758906373173246 para limite = 109	precision: 0.9443813332121598 para limite = 109	Sensitivity: 0.6890610494673092 para limite = 109	Specificity: 0.9113985136569829 para limite = 109	f1: 0.7967668764576211 para limite = 109
+accuracy: 0.7655766781881026 para limite = 110	precision: 0.931385468260099 para limite = 110	Sensitivity: 0.6996518296013108 para limite = 110	Specificity: 0.8971389645776566 para limite = 110	f1: 0.7990565853848702 para limite = 110
+accuracy: 0.7714965738887878 para limite = 111	precision: 0.9152996773753805 para limite = 111	Sensitivity: 0.7110716260899239 para limite = 111	Specificity: 0.8808818830546384 para limite = 111	f1: 0.8003629042939261 para limite = 111
+accuracy: 0.7767077496816446 para limite = 112	precision: 0.8992593265779071 para limite = 112	Sensitivity: 0.722460527516656 para limite = 112	Specificity: 0.8663129013778756 para limite = 112	f1: 0.8012226844401258 para limite = 112
+accuracy: 0.779057516220969 para limite = 113	precision: 0.8778116053982824 para limite = 113	Sensitivity: 0.7332654313567953 para limite = 113	Specificity: 0.8474831025192607 para limite = 113	f1: 0.7990541616542519 para limite = 113
+accuracy: 0.7796487478018314 para limite = 114	precision: 0.8550461216885537 para limite = 114	Sensitivity: 0.7432506270448905 para limite = 114	Specificity: 0.829035398783418 para limite = 114	f1: 0.7952385145010478 para limite = 114
+accuracy: 0.7787808501606938 para limite = 115	precision: 0.8296905530058618 para limite = 115	Sensitivity: 0.7532797931736296 para limite = 115	Specificity: 0.8100996453301808 para limite = 115	f1: 0.7896409805462056 para limite = 115
+accuracy: 0.7742367048693226 para limite = 116	precision: 0.797155450538465 para limite = 116	Sensitivity: 0.762501539375412 para limite = 116	Specificity: 0.7871126195226249 para limite = 116	f1: 0.7794435085250939 para limite = 116
+accuracy: 0.7677596871020557 para limite = 117	precision: 0.7628481846685146 para limite = 117	Sensitivity: 0.7707281241391976 para limite = 117	Specificity: 0.7648463548706858 para limite = 117	f1: 0.7667679097490239 para limite = 117
+accuracy: 0.7616161845855315 para limite = 118	precision: 0.7319943654291816 para limite = 118	Sensitivity: 0.7784319252607418 para limite = 118	Specificity: 0.7466694346808312 para limite = 118	f1: 0.7544992915884422 para limite = 118
+accuracy: 0.7506670305014856 para limite = 119	precision: 0.6899622847275867 para limite = 119	Sensitivity: 0.7856908774169067 para limite = 119	Specificity: 0.7232086111073549 para limite = 119	f1: 0.734721527766577 para limite = 119
+accuracy: 0.7375538172336426 para limite = 120	precision: 0.6454764393147635 para limite = 120	Sensitivity: 0.7916148087604258 para limite = 120	Specificity: 0.7002881106344836 para limite = 120	f1: 0.7111151901480133 para limite = 120
+accuracy: 0.7239251713055606 para limite = 121	precision: 0.6019448357340846 para limite = 121	Sensitivity: 0.7966842411242308 para limite = 121	Specificity: 0.679687976110671 para limite = 121	f1: 0.6857571783545003 para limite = 121
+accuracy: 0.7092656600570008 para limite = 122	precision: 0.5563229881401373 para limite = 122	Sensitivity: 0.8020658179197694 para limite = 122	Specificity: 0.6599291809369013 para limite = 122	f1: 0.6569660328760263 para limite = 122
+accuracy: 0.6911572979200776 para limite = 123	precision: 0.5050665697278138 para limite = 123	Sensitivity: 0.8051625054329454 para limite = 123	Specificity: 0.6389950725854564 para limite = 123	f1: 0.6207474286778052 para limite = 123
+accuracy: 0.6726434115578194 para limite = 124	precision: 0.45212886808742675 para limite = 124	Sensitivity: 0.8096781631020031 para limite = 124	Specificity: 0.61949895593905 para limite = 124	f1: 0.5802454136799903 para limite = 124
+accuracy: 0.6540158268146261 para limite = 125	precision: 0.4004634888898987 para limite = 125	Sensitivity: 0.8134576333764076 para limite = 125	Specificity: 0.601894876591636 para limite = 125	f1: 0.5367071648244571 para limite = 125
+accuracy: 0.6340655509065551 para limite = 126	precision: 0.3478438678602263 para limite = 126	Sensitivity: 0.8147661959838217 para limite = 126	Specificity: 0.5849704073567118 para limite = 126	f1: 0.48754338849554707 para limite = 126
+accuracy: 0.6145283791158814 para limite = 127	precision: 0.29640568909892306 para limite = 127	Sensitivity: 0.8163444089856705 para limite = 127	Specificity: 0.5697155798863431 para limite = 127	f1: 0.4349029085757147 para limite = 127
+age_group_5_years_1.01,10
+age_group_5_years_1.02,20
+age_group_5_years_1.03,1
+age_group_5_years_1.04,8
+age_group_5_years_1.05,6
+age_group_5_years_1.06,10
+age_group_5_years_1.07,21
+age_group_5_years_1.08,16
+age_group_5_years_1.09,18
+age_group_5_years_1.1,19
+age_group_5_years_1.11,13
+age_group_5_years_1.12,14
+race_eth_2.01,12
+race_eth_2.02,7
+first_degree_hx_3.01,8
+first_degree_hx_3.02,13
+age_menarche_4.01,6
+age_menarche_4.02,9
+age_menarche_4.03,7
+age_first_birth_5.01,9
+age_first_birth_5.02,13
+age_first_birth_5.03,10
+age_first_birth_5.04,10
+age_first_birth_5.05,9
+BIRADS_breast_density_6.01,6
+BIRADS_breast_density_6.02,13
+BIRADS_breast_density_6.03,10
+BIRADS_breast_density_6.04,10
+current_hrt_7.01,19
+current_hrt_7.02,4
+menopaus_8.01,10
+menopaus_8.02,12
+menopaus_8.03,16
+bmi_group_9.01,11
+bmi_group_9.02,11
+bmi_group_9.03,7
+bmi_group_9.04,7
+biophx_10.01,2
+biophx_10.02,19
+
+Fecha: 2024-05-13 14:50:03.076589
+HMCR: 0.7
+PAR: 0.3
+MAX_ITERS_SIN_MEJORA: 20
+NUM_DICT: 11
+MIN_VAL: 0
+MAX_VAL: 20
+Total Intentos: 269
+Mejor correlación: 0.5892237183976055
+Correlaciones: [0.55211158 0.30469321 0.54900724 0.55270576 0.58922372 0.55044434
+ 0.5431421  0.53701981 0.53963221 0.53447037 0.54090956]
+porcentaje_pitch_aleatorio_MIN_MAX: 0.4
+accuracy: 0.5484279303862712 para limite = 90	precision: 0.9988639978188758	Sensitivity: 0.52569232976739	Specificity: 0.9884294970688059	f1: 0.6888497756793599	TP: 131892	FP: 150	FN: 119000	TN: 12814
+accuracy: 0.5564436662421927 para limite = 91	precision: 0.998545917208161	Sensitivity: 0.530171737845456	Specificity: 0.9873375981006397	f1: 0.692607719279814	TP: 131850	FP: 192	FN: 116843	TN: 14971
+accuracy: 0.5656456552058698 para limite = 92	precision: 0.9983641568591811	Sensitivity: 0.5354057599597103	Specificity: 0.9877544078462498	f1: 0.6970144794968527	TP: 131826	FP: 216	FN: 114391	TN: 17423
+accuracy: 0.5749007034139834 para limite = 93	precision: 0.9980006361612215	Sensitivity: 0.5407852133339353	Specificity: 0.9869157952123705	f1: 0.7014673121811131	TP: 131778	FP: 264	FN: 111901	TN: 19913
+accuracy: 0.5850994481838578 para limite = 94	precision: 0.9974099150270368	Sensitivity: 0.5468542386393834	Specificity: 0.985145934676859	f1: 0.7064048445319331	TP: 131700	FP: 342	FN: 109132	TN: 22682
+accuracy: 0.5957567764235038 para limite = 95	precision: 0.9966828736311174	Sensitivity: 0.5533578888944952	Specificity: 0.983171968649147	f1: 0.7116230026766162	TP: 131604	FP: 438	FN: 106224	TN: 25590
+accuracy: 0.607501819174095 para limite = 96	precision: 0.9957286317989731	Sensitivity: 0.5607287708389309	Specificity: 0.9808026141121209	f1: 0.7174416605960401	TP: 131478	FP: 564	FN: 102999	TN: 28815
+accuracy: 0.6187958583469771 para limite = 97	precision: 0.994547189530604	Sensitivity: 0.5680385838181543	Specificity: 0.9779621070674298	f1: 0.7230850129533323	TP: 131322	FP: 720	FN: 99863	TN: 31951
+accuracy: 0.6308782062943423 para limite = 98	precision: 0.9933203071749898	Sensitivity: 0.5760893913639299	Specificity: 0.975623911781776	f1: 0.7292439848213169	TP: 131160	FP: 882	FN: 96513	TN: 35301
+accuracy: 0.6436465344733491 para limite = 99	precision: 0.9923206252556005	Sensitivity: 0.5848419925013391	Specificity: 0.9745328511151296	f1: 0.7359428446256762	TP: 131028	FP: 1014	FN: 93012	TN: 38802
+accuracy: 0.6563542235158571 para limite = 100	precision: 0.9902758213295769	Sensitivity: 0.5939576737361854	Specificity: 0.9706238989681759	f1: 0.7425444860572021	TP: 130758	FP: 1284	FN: 89389	TN: 42425
+accuracy: 0.6688875750409314 para limite = 101	precision: 0.9880946971418185	Sensitivity: 0.6032904228165575	Specificity: 0.9669692385274836	f1: 0.7491688343008734	TP: 130470	FP: 1572	FN: 85794	TN: 46020
+accuracy: 0.6822054453944576 para limite = 102	precision: 0.9860953333030399	Sensitivity: 0.6135367681013278	Specificity: 0.9644420343184723	f1: 0.7564311110078311	TP: 130206	FP: 1836	FN: 82016	TN: 49798
+accuracy: 0.6951784306591474 para limite = 103	precision: 0.9835052483300768	Sensitivity: 0.6240011532085625	Specificity: 0.9609264275847222	f1: 0.7635533003877621	TP: 129864	FP: 2178	FN: 78251	TN: 53563
+accuracy: 0.7072190892001697 para limite = 104	precision: 0.9794156404780298	Sensitivity: 0.6343827566247093	Specificity: 0.954698489949665	f1: 0.7700148853825544	TP: 129324	FP: 2718	FN: 74534	TN: 57280
+accuracy: 0.717929476684252 para limite = 105	precision: 0.973417548961694	Sensitivity: 0.6444386506758654	Specificity: 0.9455036641411004	f1: 0.7754804066487676	TP: 128532	FP: 3510	FN: 70916	TN: 60898
+accuracy: 0.7287384027651447 para limite = 106	precision: 0.9677375380560731	Sensitivity: 0.6549698609915119	Specificity: 0.9380453752181501	f1: 0.781211598774829	TP: 127782	FP: 4260	FN: 67314	TN: 64500
+accuracy: 0.7400476017221514 para limite = 107	precision: 0.9617394465397373	Sensitivity: 0.6665162075915351	Specificity: 0.9311040802967488	f1: 0.7873639830114393	TP: 126990	FP: 5052	FN: 63538	TN: 68276
+accuracy: 0.7501970771936207 para limite = 108	precision: 0.9538783114463579	Sensitivity: 0.6779850786439438	Specificity: 0.9220050715914039	f1: 0.7926095602486973	TP: 125952	FP: 6090	FN: 59822	TN: 71992
+accuracy: 0.758906373173246 para limite = 109	precision: 0.9443813332121598	Sensitivity: 0.6890610494673092	Specificity: 0.9113985136569829	f1: 0.7967668764576211	TP: 124698	FP: 7344	FN: 56270	TN: 75544
+accuracy: 0.7655766781881026 para limite = 110	precision: 0.931385468260099	Sensitivity: 0.6996518296013108	Specificity: 0.8971389645776566	f1: 0.7990565853848702	TP: 122982	FP: 9060	FN: 52794	TN: 79020
+accuracy: 0.7714965738887878 para limite = 111	precision: 0.9152996773753805	Sensitivity: 0.7110716260899239	Specificity: 0.8808818830546384	f1: 0.8003629042939261	TP: 120858	FP: 11184	FN: 49108	TN: 82706
+accuracy: 0.7767077496816446 para limite = 112	precision: 0.8992593265779071	Sensitivity: 0.722460527516656	Specificity: 0.8663129013778756	f1: 0.8012226844401258	TP: 118740	FP: 13302	FN: 45615	TN: 86199
+accuracy: 0.779057516220969 para limite = 113	precision: 0.8778116053982824	Sensitivity: 0.7332654313567953	Specificity: 0.8474831025192607	f1: 0.7990541616542519	TP: 115908	FP: 16134	FN: 42163	TN: 89651
+accuracy: 0.7796487478018314 para limite = 114	precision: 0.8550461216885537	Sensitivity: 0.7432506270448905	Specificity: 0.829035398783418	f1: 0.7952385145010478	TP: 112902	FP: 19140	FN: 39001	TN: 92813
+accuracy: 0.7787808501606938 para limite = 115	precision: 0.8296905530058618	Sensitivity: 0.7532797931736296	Specificity: 0.8100996453301808	f1: 0.7896409805462056	TP: 109554	FP: 22488	FN: 35882	TN: 95932
+accuracy: 0.7742367048693226 para limite = 116	precision: 0.797155450538465	Sensitivity: 0.762501539375412	Specificity: 0.7871126195226249	f1: 0.7794435085250939	TP: 105258	FP: 26784	FN: 32785	TN: 99029
+accuracy: 0.7677596871020557 para limite = 117	precision: 0.7628481846685146	Sensitivity: 0.7707281241391976	Specificity: 0.7648463548706858	f1: 0.7667679097490239	TP: 100728	FP: 31314	FN: 29964	TN: 101850
+accuracy: 0.7616161845855315 para limite = 118	precision: 0.7319943654291816	Sensitivity: 0.7784319252607418	Specificity: 0.7466694346808312	f1: 0.7544992915884422	TP: 96654	FP: 35388	FN: 27511	TN: 104303
+accuracy: 0.7506670305014856 para limite = 119	precision: 0.6899622847275867	Sensitivity: 0.7856908774169067	Specificity: 0.7232086111073549	f1: 0.734721527766577	TP: 91104	FP: 40938	FN: 24850	TN: 106964
+accuracy: 0.7375538172336426 para limite = 120	precision: 0.6454764393147635	Sensitivity: 0.7916148087604258	Specificity: 0.7002881106344836	f1: 0.7111151901480133	TP: 85230	FP: 46812	FN: 22436	TN: 109378
+accuracy: 0.7239251713055606 para limite = 121	precision: 0.6019448357340846	Sensitivity: 0.7966842411242308	Specificity: 0.679687976110671	f1: 0.6857571783545003	TP: 79482	FP: 52560	FN: 20284	TN: 111530
+accuracy: 0.7092656600570008 para limite = 122	precision: 0.5563229881401373	Sensitivity: 0.8020658179197694	Specificity: 0.6599291809369013	f1: 0.6569660328760263	TP: 73458	FP: 58584	FN: 18128	TN: 113686
+accuracy: 0.6911572979200776 para limite = 123	precision: 0.5050665697278138	Sensitivity: 0.8051625054329454	Specificity: 0.6389950725854564	f1: 0.6207474286778052	TP: 66690	FP: 65352	FN: 16138	TN: 115676
+accuracy: 0.6726434115578194 para limite = 124	precision: 0.45212886808742675	Sensitivity: 0.8096781631020031	Specificity: 0.61949895593905	f1: 0.5802454136799903	TP: 59700	FP: 72342	FN: 14033	TN: 117781
+accuracy: 0.6540158268146261 para limite = 125	precision: 0.4004634888898987	Sensitivity: 0.8134576333764076	Specificity: 0.601894876591636	f1: 0.5367071648244571	TP: 52878	FP: 79164	FN: 12126	TN: 119688
+accuracy: 0.6340655509065551 para limite = 126	precision: 0.3478438678602263	Sensitivity: 0.8147661959838217	Specificity: 0.5849704073567118	f1: 0.48754338849554707	TP: 45930	FP: 86112	FN: 10442	TN: 121372
+accuracy: 0.6145283791158814 para limite = 127	precision: 0.29640568909892306	Sensitivity: 0.8163444089856705	Specificity: 0.5697155798863431	f1: 0.4349029085757147	TP: 39138	FP: 92904	FN: 8805	TN: 123009
+age_group_5_years_1.01,10
+age_group_5_years_1.02,20
+age_group_5_years_1.03,1
+age_group_5_years_1.04,8
+age_group_5_years_1.05,6
+age_group_5_years_1.06,10
+age_group_5_years_1.07,21
+age_group_5_years_1.08,16
+age_group_5_years_1.09,18
+age_group_5_years_1.1,19
+age_group_5_years_1.11,13
+age_group_5_years_1.12,14
+race_eth_2.01,12
+race_eth_2.02,7
+first_degree_hx_3.01,8
+first_degree_hx_3.02,13
+age_menarche_4.01,6
+age_menarche_4.02,9
+age_menarche_4.03,7
+age_first_birth_5.01,9
+age_first_birth_5.02,13
+age_first_birth_5.03,10
+age_first_birth_5.04,10
+age_first_birth_5.05,9
+BIRADS_breast_density_6.01,6
+BIRADS_breast_density_6.02,13
+BIRADS_breast_density_6.03,10
+BIRADS_breast_density_6.04,10
+current_hrt_7.01,19
+current_hrt_7.02,4
+menopaus_8.01,10
+menopaus_8.02,12
+menopaus_8.03,16
+bmi_group_9.01,11
+bmi_group_9.02,11
+bmi_group_9.03,7
+bmi_group_9.04,7
+biophx_10.01,2
+biophx_10.02,19
+
